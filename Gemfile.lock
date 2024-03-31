@@ -37,8 +37,6 @@ GEM
       faraday-net_http (>= 2.0, < 3.2)
     faraday-net_http (3.1.0)
       net-http
-    faraday-retry (2.2.0)
-      faraday (~> 2.0)
     ffi (1.16.3)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
@@ -270,7 +268,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  faraday-retry (~> 2.2)
   github-pages
   jekyll-feed
   jekyll-include-cache
